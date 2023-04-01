@@ -19,7 +19,7 @@ If you would like to contribute to Python Library Helper, please follow these st
 2. Create a new branch on your fork.
 3. Make your changes and commit them with clear commit messages.
 4. Push your changes to your fork.
-5.Submit a pull request to this repository.
+5. Submit a pull request to this repository.
 
 ## Adding Recommendations
 If you have recommendations for Python libraries to add to the library.txt file, you can submit them by creating a new issue on this repository. Be sure to include the name of the library and a brief description of what it does.
